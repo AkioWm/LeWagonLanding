@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+
+body{
+  text-align: center;
+  color: green;
+  letter-spacing: 5px;
+  font-family: Roboto;
+  font-size: 25px;
+  background-image: linear-gradient(#F7B05B,rgb(255,255,255));
+}
+
+input{
+  color: white;
+  border-radius:10px;
+  background-color: blue;
+  text-align: center;
+  width: 200px;
+  length: 400px;
+}
+a{
+  text-decoration: none;
+  color: purple;
+}
+
+h1{
+  font-family: Pacifico;
+  color: white;
+  font-weight: light;
+}
+
+h2{
+  color: blue;
+  font-family: 'Noto Serif'
+}
+
+footer{
+  background-color: black;
+  color: white;
+  margin:0 auto;
+  font-size: 20px;
+}
+
+a:hover{
+  color: #F79013;
+}
+
+#banner{
+  background-image:
+}
+.card{
+  background-color: #F79013;
+  border-radius: 20px;
+  margin: 10%;
+}
+footer{
+  text-align: center;
+}
+footer a {
+  color: lightgrey;
+  font-size: 15px;
+  text-align: left;
+}
+ul{
+  list-style: none;
+  text-align: center;
+}
+ul li{
+  display: inline;
+}
